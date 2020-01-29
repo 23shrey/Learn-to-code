@@ -1,0 +1,293 @@
+.logo {
+  width: 124px;
+  margin-top: 20px;
+
+}
+
+
+
+.blue {
+  opacity: 0.8;
+  margin-left:830px;
+  height:100px;
+  width:100px;
+  border-radius: 50px;
+  background: #559AF7;
+}
+.top-wrapper {
+  background-image:url(https://img.freepik.com/free-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg?size=626&ext=jpg);
+  background-size: cover;
+  height:450px;
+   padding: 180px 0 100px 0;
+  text-align: center;
+}
+
+
+.green {
+  opacity: 0.8;
+  height:18px;
+  width:18px;
+  border-radius: 50px;
+  background: #48B773;
+  margin-top: -82px;
+  margin-left: 960px;
+}
+.red {
+  opacity: 0.8;
+  height:30px;
+  width:30px;
+  border-radius: 50px;
+  background: #ED573E;
+  margin-left:935px;
+}
+
+.yellow {
+  opacity: 0.8;
+  height:40px;
+  width:40px;
+  border-radius: 50px;
+  background: #FBCC02;
+  margin-top: 5px;
+  margin-left: 933px;
+}
+
+.top-wrapper h2 {
+
+  margin-left: 950px;
+  margin-top: -75px;
+  color: #FFFF33;
+  line-height: 50PX;
+  font-family: 'Ravi Prakash', cursive;
+  margin-bottom:30px;
+  font-size:80px;
+}
+
+.top-wrapper h3 {
+
+  margin-left: 950px;
+  margin-top: -80px;
+  color: #fff;
+  line-height: 40PX;
+  font-family: Poppins;
+  font-size:21px;
+}
+
+
+.top-wrapper h4 {
+
+  margin-left: 320px;
+  margin-top: -20px;
+  color: #559AF7;
+  font-size:35px;
+  font-family: Poppins;
+
+}
+
+.top-wrapper h4 span {
+  color: #48B773;
+}
+
+.top-wrapper h4 span-1 {
+  color:#ED573E;
+}
+
+.top-wrapper h4 span-2{
+  color: #FBCC02;
+}
+
+.btn-wrapper {
+  padding-left: 800px;
+}
+
+.btn {
+  padding-top: 12px;
+ padding-bottom: 12px;
+ padding-left: 24px;
+ padding-right: 24px;
+ color: white;
+ display: inline-block;
+ opacity: 0.8;
+ border-radius: 4px;
+
+
+}
+
+.btn:hover {
+  opacity:1;
+}
+
+.signup {
+  background-color:#239b76;
+
+}
+
+.facebook {
+  background-color:#3b5998;
+  margin-right: 10px;
+
+
+}
+
+.twitter {
+  background-color:#55acee;
+
+}
+
+.btn-wrapper {
+  margin:20px 0;
+}
+
+.btn-wrapper p {
+ margin: 10px 0;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+
+  position: fixed;
+ top: 0;
+ z-index: 10;
+
+}
+
+
+
+.header-left {
+  float: left;
+font-family:  'Londrina Sketch', cursive;
+   margin-left: 20px;
+  color: #000;
+   font-size:40px;
+  margin-top: 10PX;
+  font-weight:bold;
+ }
+
+ .header-right {
+   float: right;
+   margin-right: -25px;
+   color: black;
+ }
+
+ .header-right a {
+   line-height: 65px;
+   padding: 0 25px;
+   color: black;
+   display: block;
+   float: left;
+   transition: all 0.5s;
+   margin-right: 30px;
+ }
+
+ .header-right a:hover {
+   background-color: rgba(255, 255, 255, 0.3);
+ }
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color:#5f5d60;
+ }
+
+.heading h2 {
+  font-weight: normal;
+  font-size: 50px;
+  font-family: 'Kranky', cursive;
+  font-weight: bold;
+  color: #000;
+  margin-top: -10px;
+  margin-left: 500px;
+}
+
+.lesson-wrapper {
+  background-image: url(https://ak1.picdn.net/shutterstock/videos/18038701/thumb/1.jpg);
+  background-size: cover;
+  height:500px;
+}
+
+
+
+
+.lesson {
+  float:left;
+  width:25%;
+
+}
+
+.lesson p {
+  font-family: 'Acme', sans-serif;
+  color: #fff;
+  font-size:40px;
+  position: absolute;
+  top: 40px;
+  left: 100px;
+  font-weight: bold;
+
+
+}
+
+.lesson-icon {
+  position: relative;
+  margin-top: -20px;
+}
+
+.lesson-icon image {
+  height: 200px;
+  width: 300px;
+  border: 2px solid #000 ;
+  box-shadow: 10px 10px #000;
+  border-radius: 60%;
+  margin-bottom: 30px;
+}
+
+.txt-content audio {
+  margin-top:20px;
+  position: relative;
+
+}
+
+
+.message-wrapper  {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 40px;
+  text-align: center;
+
+
+}
+
+.message-wrapper h2 {
+  margin-top: 350px;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #ff9999;
+  color:#000;
+  cursor: pointer;
+  box-shadow: 0 7px #ff6666;
+}
+
+.message:active {
+  position:relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+
+footer img {
+  width: 40px;
+  float: right;
+}
+
+footer p {
+  color: #000;
+  font-size:20px;
+  float:right;
+  font-family: 'Frijole', cursive;
+  padding-left:30px;
+  margin-bottom: 10px;
+}
+
+footer {
+  padding-top: 10px;
+}
